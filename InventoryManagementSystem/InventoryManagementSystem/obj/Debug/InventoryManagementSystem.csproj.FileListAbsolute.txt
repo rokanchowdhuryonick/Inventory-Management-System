@@ -1,0 +1,26 @@
+E:\GitHub Repository\Inventory-Management-System\Inventory Management System\Inventory Management System\bin\Debug\Inventory Management System.exe.config
+E:\GitHub Repository\Inventory-Management-System\Inventory Management System\Inventory Management System\bin\Debug\Inventory Management System.exe
+E:\GitHub Repository\Inventory-Management-System\Inventory Management System\Inventory Management System\bin\Debug\Inventory Management System.pdb
+E:\GitHub Repository\Inventory-Management-System\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.Dashboard.resources
+E:\GitHub Repository\Inventory-Management-System\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.Login.resources
+E:\GitHub Repository\Inventory-Management-System\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.Properties.Resources.resources
+E:\GitHub Repository\Inventory-Management-System\Inventory Management System\Inventory Management System\obj\Debug\InventoryManagementSystem.csproj.GenerateResource.cache
+E:\GitHub Repository\Inventory-Management-System\Inventory Management System\Inventory Management System\obj\Debug\InventoryManagementSystem.csproj.CoreCompileInputs.cache
+E:\GitHub Repository\Inventory-Management-System\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.exe
+E:\GitHub Repository\Inventory-Management-System\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.pdb
+E:\GitHub Repository\Inventory-Management-System\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\Inventory Management System.exe.config
+E:\GitHub Repository\Inventory-Management-System\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\Inventory Management System.exe
+E:\GitHub Repository\Inventory-Management-System\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\Inventory Management System.pdb
+E:\GitHub Repository\Inventory-Management-System\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\Inventory_Management_System.Category.resources
+E:\GitHub Repository\Inventory-Management-System\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\Inventory_Management_System.Customers.resources
+E:\GitHub Repository\Inventory-Management-System\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\Inventory_Management_System.Dashboard.resources
+E:\GitHub Repository\Inventory-Management-System\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\Inventory_Management_System.Login.resources
+E:\GitHub Repository\Inventory-Management-System\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\Inventory_Management_System.PasswordChange.resources
+E:\GitHub Repository\Inventory-Management-System\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\Inventory_Management_System.Products.resources
+E:\GitHub Repository\Inventory-Management-System\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\Inventory_Management_System.Properties.Resources.resources
+E:\GitHub Repository\Inventory-Management-System\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.csproj.GenerateResource.cache
+E:\GitHub Repository\Inventory-Management-System\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.csproj.CoreCompileInputs.cache
+E:\GitHub Repository\Inventory-Management-System\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\Inventory Management System.exe
+E:\GitHub Repository\Inventory-Management-System\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\Inventory Management System.pdb
+E:\GitHub Repository\Inventory-Management-System\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.csprojAssemblyReference.cache
+E:\GitHub Repository\Inventory-Management-System\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\Inventory_Management_System.SellReport.resources

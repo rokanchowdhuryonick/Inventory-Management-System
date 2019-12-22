@@ -1,0 +1,11 @@
+E:\GitHub Repository\Inventory-Management-System\Inventory Management System\Inventory Management System\bin\Debug\Inventory Management System.exe.config
+E:\GitHub Repository\Inventory-Management-System\Inventory Management System\Inventory Management System\bin\Debug\Inventory Management System.exe
+E:\GitHub Repository\Inventory-Management-System\Inventory Management System\Inventory Management System\bin\Debug\Inventory Management System.pdb
+E:\GitHub Repository\Inventory-Management-System\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.csprojAssemblyReference.cache
+E:\GitHub Repository\Inventory-Management-System\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.Properties.Resources.resources
+E:\GitHub Repository\Inventory-Management-System\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.csproj.GenerateResource.cache
+E:\GitHub Repository\Inventory-Management-System\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.csproj.CoreCompileInputs.cache
+E:\GitHub Repository\Inventory-Management-System\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.exe
+E:\GitHub Repository\Inventory-Management-System\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.pdb
+E:\GitHub Repository\Inventory-Management-System\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.Login.resources
+E:\GitHub Repository\Inventory-Management-System\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.Dashboard.resources
